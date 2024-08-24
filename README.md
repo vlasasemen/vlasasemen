@@ -1,4 +1,4 @@
-<h1 align="center">## Welcome to my profile!👋
+## Welcome to my profile!👋
 My name is Sema, I'm from Russia. I am currently a 4th year student at GUAP University in the field of Business Informatics!🎓     <br />
 I want to learn most programming languages, as well as English, in order to continue working in this profession and be able to travel!🌅     <br />
 Now I'm not perfect, but I know languages like Java, Python, MySql, html, css, 1c.👨‍💻     <br />
