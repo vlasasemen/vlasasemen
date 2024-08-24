@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Sema, I'm from Russia. I am currently a 4th year student at GUAP University majoring in Business Informatics!🎓     <br />
+My name is Sema, I'm from Russia. I am currently a 4th year student at GUAP University in the field of Business Informatics!🎓     <br />
 I want to learn most programming languages, as well as English, in order to continue working in this profession and be able to travel!🌅     <br />
 Now I'm not perfect, but I know languages like java, python, html, css, 1c.👨‍💻     <br />
 I also have some cool (to my mind) hobbies! I play ice hockey🏒 (now I play for my university and am the captain of my team) and I really like surfing🏄:)    <br />
