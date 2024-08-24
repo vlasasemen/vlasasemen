@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Sema, I'm from Russia. I am currently a 4th year student at GUAP University majoring in Business Informatics!
 
 <!--
 **vlasasemen/vlasasemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
